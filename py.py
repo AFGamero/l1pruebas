@@ -4,4 +4,4 @@ def sumar(a, y):
 
 def restar(a, b):
     return a - b
-
+b = 1
