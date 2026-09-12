@@ -1,5 +1,5 @@
-def sumar(a, b):
-    resultado = a + b
+def sumar(a, c):
+    resultado = a + c
     return resultado
 
 def restar(a, b):
