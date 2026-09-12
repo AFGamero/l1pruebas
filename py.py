@@ -1,6 +1,6 @@
-def sumar(a, c):
-    resultado = a + c
-    return resultado
+def sumar(a, y):
+    print(f"Sumando {a} y {y}")
+    return a + b
 
 def restar(a, b):
     return a - b
