@@ -7,10 +7,6 @@ def restar(a, b):
 
 
 def multiplicar(a,b):
-<<<<<<< Updated upstream
-    return a*b
-=======
     return a*b
 
 # asd
->>>>>>> Stashed changes
