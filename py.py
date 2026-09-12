@@ -1,7 +1,6 @@
-cat > calculadora.py << 'EOF'
 def sumar(a, b):
-    return a + b
+    resultado = a + b
+    return resultado
 
 def restar(a, b):
     return a - b
-EOF
