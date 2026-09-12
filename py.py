@@ -1,5 +1,5 @@
-def sumar(a, b):
-    print(f"Sumando {a} y {b}")
+def sumar(a, y):
+    print(f"Sumando {a} y {y}")
     return a + b
 
 def restar(a, b):
